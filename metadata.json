@@ -1,0 +1,6 @@
+{
+  "name": "新北市非都市土地露營場申辦資訊",
+  "description": "新北市非都市土地使用管制結合露營場設置兩階段申辦指南、用地試算、環境敏感區查詢、企劃書範本與合規檢視平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
